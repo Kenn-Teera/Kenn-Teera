@@ -6,8 +6,6 @@
 - 📫 How to reach me: Gmail
 - ⚡ Fun fact: I am Kenn ;)
 
-[![tyajai's 42 stats](https://badge.mediaplus.ma/starryblue/tyajai)](https://github.com/oakoudad/badge42)
-
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
