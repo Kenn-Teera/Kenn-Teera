@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on 42Bangkok.
-- 🌱 I’m currently learning about C, Web, AI, etc.
+- 🔭 I’m currently studying on KMITL.
+- 🌱 I’m currently learning about C, AI, Game-Dev, etc.
 - 🤔 I’m looking for help with "..."
 - 📫 How to reach me: Gmail
 - ⚡ Fun fact: I am Kenn ;)
