@@ -1,4 +1,5 @@
 ### HELLO there I'm Kenn 👋
+
 #### Contact
 - | Mail : teerapat.yj@gmail.com | [LinkedIn](https://www.linkedin.com/in/teerapat-yajai-8450a5256/) |
 
@@ -6,3 +7,6 @@
 - Simplicity is the ultimate sophistication.
 - Consistency is what transforms average into excellence.
 
+#### Plan
+- Become **Software Engineer**
+- Create a little **GAME**
