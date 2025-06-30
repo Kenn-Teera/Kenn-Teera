@@ -13,3 +13,4 @@
 #### Plan
 - Become **Software Engineer**
 - Create a little **GAME**
+- **Minimal Habit tracker**
