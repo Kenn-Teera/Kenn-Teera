@@ -9,8 +9,3 @@
 
 #### Song
 - “No one should need a permit to a way of life.” - Full Moon, Full Life
-
-#### Plan
-- Become **Software Engineer**
-- Create a little **GAME**
-- **Minimal Habit tracker**
